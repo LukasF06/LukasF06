@@ -44,8 +44,8 @@
 ---
 
 <br />
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasF06&layout=compact" />
-<img align="left" alt="Languages" src="https://github-readme-stats.vercel.app/api?username=LukasF06&show_icons=true" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasF06&layout=compact" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=LukasF06&show_icons=true" />
 
 [instagram]: https://www.instagram.com/lukas____frey/
 [youtube]: https://www.youtube.com/channel/UCwzruurRykH_dJNIeNqpw2w
