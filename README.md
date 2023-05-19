@@ -44,7 +44,7 @@
 ---
 
 <br />
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasF06&layout=compact" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasF06&layout=donut" />
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=LukasF06&show_icons=true" />
 
 [instagram]: https://www.instagram.com/lukas____frey/
