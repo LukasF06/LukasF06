@@ -33,10 +33,10 @@
 [<img align="left" alt="mysql" width="30px" src="https://upload.wikimedia.org/wikipedia/de/thumb/d/dd/MySQL_logo.svg/2560px-MySQL_logo.svg.png" />][mysql]
 [<img align="left" alt="node" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png" />][node]
 [<img align="left" alt="unity" width="30px" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />][unity]
-[<img align="left" alt="blender" width="30px" src="[https://dd.countit.at/media/dojos/logo_csharp.png](https://i.pcmag.com/imagery/reviews/00CHLsbAPPKloTAg2PZlVBC-1..v1662670755.jpg)" />][blender]
-[<img align="left" alt="microsoft net" width="30px" src="[https://dd.countit.at/media/dojos/logo_csharp.png](https://upload.wikimedia.org/wikipedia/de/thumb/5/5b/Microsoft_.NET_Logo.svg/1200px-Microsoft_.NET_Logo.svg.png)" />][net]
-[<img align="left" alt="postman" width="30px" src="[https://dd.countit.at/media/dojos/logo_csharp.png](https://www.testautomatisierung.org/wp-content/uploads/postman.jpg)" />][postman]
-[<img align="left" alt="adobe xd" width="30px" src="[https://dd.countit.at/media/dojos/logo_csharp.png](https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw)" />][xd]
+[<img align="left" alt="blender" width="30px" src="https://i.pcmag.com/imagery/reviews/00CHLsbAPPKloTAg2PZlVBC-1..v1662670755.jpg" />][blender]
+[<img align="left" alt="microsoft net" width="30px" src="https://upload.wikimedia.org/wikipedia/de/thumb/5/5b/Microsoft_.NET_Logo.svg/1200px-Microsoft_.NET_Logo.svg.png" />][net]
+[<img align="left" alt="postman" width="30px" src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" />][postman]
+[<img align="left" alt="adobe xd" width="30px" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" />][xd]
 
 <br />
 <br />
