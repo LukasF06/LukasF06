@@ -17,8 +17,6 @@
 &nbsp;
 [<img align="left" alt="Instagram" width="20px" src="https://www.gl-it.ch/Portals/0/EasyDNNnews/151/img-174857.png" />][linkedin]
 
-<br />
-
 ---
 
 ### Languages and Technologies:
