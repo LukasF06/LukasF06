@@ -6,12 +6,12 @@
 - 💬 Ask me about HTML or CSS
 - 📫 How to reach me: lukas06frey@gmail.com   
 - ⚡ Fun fact: I'm creative
+<img alt="avatar" width="400px" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 ---
 
 ### Connect with me:
-
-[<img align="left" alt="Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
+[<img align="left" alt="instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />][instagram]
 &nbsp;
 [<img align="left" alt="youtube" width="30px" src="https://play-lh.googleusercontent.com/lMoItBgdPPVDJsNOVtP26EKHePkwBg-PkuY9NOrc-fumRtTFP4XhpUNk_22syN4Datc" />][youtube]
 &nbsp;
