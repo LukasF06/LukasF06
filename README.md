@@ -39,9 +39,6 @@
 [<img align="left" alt="adobe xd" width="30px" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" />][xd]
 [<img alt="cassandra" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png" />][cassandra]
 
-<br />
-<br />
-
 ---
 
 <br />
