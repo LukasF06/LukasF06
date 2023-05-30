@@ -37,6 +37,7 @@
 [<img align="left" alt="microsoft net" width="30px" src="https://upload.wikimedia.org/wikipedia/de/thumb/5/5b/Microsoft_.NET_Logo.svg/1200px-Microsoft_.NET_Logo.svg.png" />][net]
 [<img align="left" alt="postman" width="30px" src="https://www.testautomatisierung.org/wp-content/uploads/postman.jpg" />][postman]
 [<img align="left" alt="adobe xd" width="30px" src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" />][xd]
+[<img align="left" alt="cassandra" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png" />][cassandra]
 
 <br />
 <br />
@@ -66,4 +67,4 @@
 [net]: https://dotnet.microsoft.com/en-us/download/dotnet-framework
 [postman]: https://www.postman.com/
 [xd]: https://helpx.adobe.com/de/xd/get-started.html
-
+[cassandra]: https://cassandra.apache.org/_/index.html
