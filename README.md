@@ -1,11 +1,11 @@
 ### Hi there 👋 
 ## I'm Lukas Frey, and I'm currently a computer science student💻
 
-- 🔭 I’m currently working on a learning app called KnowNow
+- 🔭 I’m currently working on an organizing web-app called Weekflow
 - 🌱 I’m currently learning to use API's
 - 💬 Ask me about HTML or CSS
 - 📫 How to reach me: lukas06frey@gmail.com   
-- ⚡ Fun fact: I'm creative
+- ⚡ Fun fact: I like photography
 <img alt="avatar" width="400px" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" />
 
 ---
