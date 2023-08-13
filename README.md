@@ -45,6 +45,12 @@
 <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasF06&layout=donut" />
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=LukasF06&show_icons=true&theme=algolia" />
 
+---
+
+### Check out WeekFlow:
+
+[<img align="left" alt="weekflow" width="450px" src="https://github.com/LukasF06/WeekFlow/blob/main/WeekFlowImages/WFLogo.png" />][weekflow]
+
 [instagram]: https://www.instagram.com/lukas____frey/
 [youtube]: https://www.youtube.com/channel/UCwzruurRykH_dJNIeNqpw2w
 [linkedin]: https://www.linkedin.com/in/lukas-frey-896782239/
@@ -65,3 +71,4 @@
 [postman]: https://www.postman.com/
 [xd]: https://helpx.adobe.com/de/xd/get-started.html
 [cassandra]: https://cassandra.apache.org/_/index.html
+[weekflow]: https://github.com/LukasF06/WeekFlow
